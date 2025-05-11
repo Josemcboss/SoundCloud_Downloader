@@ -96,6 +96,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## Contacto
 
-Tu Nombre - [@tutwitter](https://twitter.com/tutwitter) - email@ejemplo.com
+Tu Nombre - [@instagram](https://instagram.com/josemenciaa) - email@ejemplo.com
 
 Link del Proyecto: [https://github.com/tu-usuario/soundcloud-downloader](https://github.com/tu-usuario/soundcloud-downloader) 
